@@ -28,6 +28,6 @@
         "vuetifyjs-mix-extension": "0.0.8"
     },
     "dependencies": {
-        "vuetify": "^2.3.4"
+        "vuetify": "^2.6.10"
     }
 }
